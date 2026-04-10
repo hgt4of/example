@@ -18,3 +18,4 @@ public class example {
             $(".modal-title").shouldHave(text("Thanks for submitting the form"));
         }
 }
+ghjk
